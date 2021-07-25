@@ -1,6 +1,10 @@
 # Gatitobook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+A simple project about a social network for upload cat photos
+
+![Alt text](gatitobook-readme.png?raw=true)
+
 
 ## Development server
 
